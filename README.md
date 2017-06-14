@@ -1,1 +1,1 @@
-# reTHINK-Beta-Tester-Event-v2.0-
+# reTHINK-Beta-Tester-Event-v2.0
