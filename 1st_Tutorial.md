@@ -2,7 +2,7 @@
 
 Each team should develop a web application that uses the `Code Generator Reporter` hyperty that can be deployed from the `hysmart.rethink.ptinovacao.pt` catalogue. This hyperty generates a code according to the name of each team, which should be passed as input. The resulting code should be shown in the developed application.   
 
-![1st Challenge](./Figures/1-ChallengeV2.jpg)
+![1st Challenge](./Figures/1-Tutorial.jpg)
 
 To overcome this first tutorial, each team should accomplish all the tasks bellow. 
 Your feedback is extremely important for us, in order to improve the reTHINK framework in the future. As such, after completing all the tasks, each team must fill out this [Survey](https://docs.google.com/forms/d/e/1FAIpQLSeFt56Ura0zkTqg_VX9od_jBZtE3-2mt_urTFvxsoRuQ3uJRw/viewform). 
