@@ -1,4 +1,4 @@
-# 2nd Challenge
+# 2nd Combining multiple Hyperties in a web application 
 
 Each team should develop a chat application that uses the `Code Generator Reporter` and `Group Chat Manager` hyperties that can be deployed from the `hysmart.rethink.ptinovacao.pt` catalogue. The `Code Generator Reporter` hyperty generates a code according to the name of your team that should be passed an input. The `Group Chat Manager` hyperty's main functionality is to handle text conversations among groups, including:
 
