@@ -1,6 +1,6 @@
 # reTHINK-Beta-Tester-Event-v2.0
 
-This Repo is dedicated to help the challenge participants use the reTHINK framework for web application development. Each team should complete all the proposed tutorials and the ultimate challenge. Do not forget to fill out the surveys presented at the end of each tutorial and challenge. If you do not, your participation will not be considered. Each team should take into account all the criterias below, as these will be taken into account to determine the top places. 
+This Repo is dedicated to help the challenge participants use the reTHINK framework for web application development. Each team should complete all the proposed tutorials and the ultimate challenge. Do not forget to fill out the surveys presented at the end of each tutorial and challenge. If you do not, your participation will not be considered. Each team should take into account all the criterias below, as these will be taken into account to determine the top places. In order to complete all the proposed tutorials and the ultimate challenge, it is important that each team read the available documentation at the end of this repository.
 
 
 ## [1st Challenge](./1st_Challenge.md) (`estimate: 1 hour and 15 minutes`)
