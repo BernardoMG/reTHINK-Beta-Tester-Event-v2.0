@@ -1,4 +1,4 @@
-# 3rd Challenge
+# 3rd Hyperty development 
 
 Each team should continue working on the previously developed application that uses the `Code Generator Reporter` and `Group Chat Manager` hyperties. The goal of this third challenge is to change the `Code Generator Reporter` hyperty. Now, whenever a code is generated, it should also generate a timestamp that will be returned with the generated code to the application.   
 
@@ -16,7 +16,7 @@ Your feedback is extremely important for us in order to improve reTHINK framewor
 
 `Hyperty Development Toolkit` - Currently, the toolkit can be used to develop hyperties to be executed in the Browser or in NodeJS. It is essential to use the toolkit in order to change the `Code Generator Reporter` hyperty and complete this challenge. In order to configurate properly the Toolkit follow the available documentation [here](https://github.com/reTHINK-project/dev-hyperty-toolkit/blob/develop/README.md).
 
-#### Note: Use `develop` branch of dev-hyperty-toolkit repository and `betaTesterEvent` branch of dev-hyperty repository.
+#### Note: Use `develop` branch of dev-hyperty-toolkit and dev-hyperty repositories.
 
 <!-- 
 ### Task 1.1: 
