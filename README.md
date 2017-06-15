@@ -10,7 +10,7 @@ This Repo is dedicated to help the challenge participants use the reTHINK framew
 
 ## [Overall Survey](https://docs.google.com/forms/d/e/1FAIpQLSeFt56Ura0zkTqg_VX9od_jBZtE3-2mt_urTFvxsoRuQ3uJRw/viewform)
 
-After completing all the proposed tutorials and challenge, each team must fill out page 7 (last one) of the [Survey](https://docs.google.com/forms/d/e/1FAIpQLSeFt56Ura0zkTqg_VX9od_jBZtE3-2mt_urTFvxsoRuQ3uJRw/viewform).
+After completing all the proposed tutorials and challenge, each team must fill out this [Survey](https://docs.google.com/forms/d/e/1FAIpQLSeFt56Ura0zkTqg_VX9od_jBZtE3-2mt_urTFvxsoRuQ3uJRw/viewform).
 
 ## [Rules](./rules.md)
 
