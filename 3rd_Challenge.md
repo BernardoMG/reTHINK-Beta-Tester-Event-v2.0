@@ -1,13 +1,13 @@
 # 3rd Hyperty development 
 
-Each team should continue working on the previously developed application that uses the `Code Generator Reporter` and `Group Chat Manager` hyperties. The goal of this third challenge is to change the `Code Generator Reporter` hyperty. Now, whenever a code is generated, it should also generate a timestamp that will be returned with the generated code to the application.   
+Each team should continue working on the previously developed application that uses the `Code Generator Reporter` and `Group Chat Manager` hyperties. The goal of this third tutorial is to change the `Code Generator Reporter` hyperty. Now, whenever a code is generated, it should also generate a timestamp that will be returned with the generated code to the application.   
 
 
 ![3rd Challenge](./Figures/3-Challenge.jpg)
 
 
-To overcome this third challenge, each team should accomplish all the tasks bellow. 
-Your feedback is extremely important for us in order to improve reTHINK framework in the future. As such, after complete all the tasks, each team must fill out page 4 of this [Survey](https://docs.google.com/forms/d/e/1FAIpQLSeFt56Ura0zkTqg_VX9od_jBZtE3-2mt_urTFvxsoRuQ3uJRw/viewform). 
+To overcome this third tutorial, each team should accomplish all the tasks bellow. 
+Your feedback is extremely important for us in order to improve reTHINK framework in the future. As such, after complete all the tasks, each team must fill out this [Survey](https://docs.google.com/forms/d/e/1FAIpQLSeFt56Ura0zkTqg_VX9od_jBZtE3-2mt_urTFvxsoRuQ3uJRw/viewform). 
 
 ### Note: If you do not fill out this form, your participation will not be considered! 
 
@@ -99,4 +99,4 @@ Open https://localhost/ and select an Hyperty to run.
 
 ##
 
-### [Survey Page 4!!!](https://docs.google.com/forms/d/e/1FAIpQLSeFt56Ura0zkTqg_VX9od_jBZtE3-2mt_urTFvxsoRuQ3uJRw/viewform) 
+### [Survey!!!](https://docs.google.com/forms/d/e/1FAIpQLSeFt56Ura0zkTqg_VX9od_jBZtE3-2mt_urTFvxsoRuQ3uJRw/viewform) 
