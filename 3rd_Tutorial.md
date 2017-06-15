@@ -3,7 +3,7 @@
 Each team should continue working on the previously developed application that uses the `Code Generator Reporter` and `Group Chat Manager` hyperties. The goal of this third tutorial is to change the `Code Generator Reporter` hyperty. Now, whenever a code is generated, it should also generate a timestamp that will be returned with the generated code to the application.   
 
 
-![3rd Challenge](./Figures/3-Challenge.jpg)
+![3rd Challenge](./Figures/3-Tutorial.jpg)
 
 
 To overcome this third tutorial, each team should accomplish all the tasks bellow. 
