@@ -2,11 +2,13 @@
 
 This Repo is dedicated to help the challenge participants use the reTHINK framework for web application development. Each team should complete all the proposed tutorials and the ultimate challenge. Do not forget to fill out the surveys presented at the end of each tutorial and challenge. If you do not, your participation will not be considered. Each team should take into account all the criterias below, as these will be taken into account to determine the top places. In order to complete all the proposed tutorials and the ultimate challenge, it is important that each team read the available documentation at the end of this repository.
 
+## [Presentation Survey]
+
 ## [Tutorials](./Tutorials.md) 
 
 ## [Challenge](./5th_Challenge.md)
 
-## [Survey](https://docs.google.com/forms/d/e/1FAIpQLSeFt56Ura0zkTqg_VX9od_jBZtE3-2mt_urTFvxsoRuQ3uJRw/viewform)
+## [Overall Survey](https://docs.google.com/forms/d/e/1FAIpQLSeFt56Ura0zkTqg_VX9od_jBZtE3-2mt_urTFvxsoRuQ3uJRw/viewform)
 
 After completing all the proposed tutorials and challenge, each team must fill out page 7 (last one) of the [Survey](https://docs.google.com/forms/d/e/1FAIpQLSeFt56Ura0zkTqg_VX9od_jBZtE3-2mt_urTFvxsoRuQ3uJRw/viewform).
 
