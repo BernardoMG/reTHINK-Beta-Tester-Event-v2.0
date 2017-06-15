@@ -1,4 +1,4 @@
-# 4th Challenge
+# 4th Web Application Example
 
 Each team should develop a video conference application. This application should cover the following requirements:
 
