@@ -4,19 +4,11 @@ This Repo is dedicated to help the challenge participants use the reTHINK framew
 
 ## [Tutorials](./Tutorials.md) 
 
-## [1st Challenge](./1st_Challenge.md) (`estimate: 1 hour and 15 minutes`)
-
-## [2nd Challenge](./2nd_Challenge.md) (`estimate: 3 hours`)
-
-## [3rd Challenge](./3rd_Challenge.md) (`estimate: 1 hour and 15 minutes`)
-
-## [4th Challenge](./4th_Challenge.md) 
-
-## [5th Challenge](./5th_Challenge.md)
+## [Challenge](./5th_Challenge.md)
 
 ## [Survey](https://docs.google.com/forms/d/e/1FAIpQLSeFt56Ura0zkTqg_VX9od_jBZtE3-2mt_urTFvxsoRuQ3uJRw/viewform)
 
-After completing all the proposed challenges, each team must fill out page 7 (last one) of the [Survey](https://docs.google.com/forms/d/e/1FAIpQLSeFt56Ura0zkTqg_VX9od_jBZtE3-2mt_urTFvxsoRuQ3uJRw/viewform).
+After completing all the proposed tutorials and challenge, each team must fill out page 7 (last one) of the [Survey](https://docs.google.com/forms/d/e/1FAIpQLSeFt56Ura0zkTqg_VX9od_jBZtE3-2mt_urTFvxsoRuQ3uJRw/viewform).
 
 ## [Rules](./rules.md)
 
