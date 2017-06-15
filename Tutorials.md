@@ -18,4 +18,4 @@ by each team. The main goals with these tutorials is that at the end, each team 
 ## [4th Challenge](./4th_Challenge.md) 
 
 
-#### Note: Each team can find the solutions (examples) for the above tutorial [here]()
+#### Note: Each team can find the solutions (examples) for the above tutorials [here]().
