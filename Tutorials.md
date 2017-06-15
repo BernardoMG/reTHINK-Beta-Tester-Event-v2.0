@@ -1,3 +1,5 @@
+# Tutorials
+
 Each team must complete the following tutorials. At the end of each tutorial, it will be presented a survey that must be fill out 
 by each team. The main goals with these tutorials is that at the end, each team has incorporated the following points:
 
@@ -7,7 +9,7 @@ by each team. The main goals with these tutorials is that at the end, each team 
  * How to use and configure the reTHINK development enviroment (Hyperty Toolkit)
  * How to develop an Hyperty from scratch
 
-## [1st Tuturial - Load an Hyperty](./1st_Challenge.md) (`estimate: 1 hour and 15 minutes`)
+## [1st Load an Hyperty](./1st_Challenge.md) (`estimate: 1 hour and 15 minutes`)
 
 ## [2nd Challenge](./2nd_Challenge.md) (`estimate: 3 hours`)
 
