@@ -1,7 +1,8 @@
 # reTHINK-Beta-Tester-Event-v2.0
 
-This Repo is dedicated to help the challenge participants use the reTHINK framework for web application development. Each team should complete all the proposed tutorials and the ultimate challenge. Do not forget to fill out the surveys presented at the end of each tutorial and challenge. If you do not, your participation will not be considered. Each team should take into account all the criterias below, as these will be taken into account to determine the top places. 
+This Repo is dedicated to help the challenge participants use the reTHINK framework for web application development. Each team should complete all the proposed tutorials and the ultimate challenge. Do not forget to fill out the surveys presented at the end of each tutorial and challenge. If you do not, your participation will not be considered. Each team should take into account all the criterias below, as these will be taken into account to determine the top places. In order to complete all the proposed tutorials and the ultimate challenge, it is important that each team read the available documentation at the end of this repository.
 
+## [Tutorials](./Tutorials.md) 
 
 ## [1st Challenge](./1st_Challenge.md) (`estimate: 1 hour and 15 minutes`)
 
@@ -26,15 +27,15 @@ After completing all the proposed challenges, each team must fill out page 7 (la
 
 * [Complete specification](https://github.com/reTHINK-project/specs)
 
-* [Available Hyperties](https://github.com/reTHINK-project/dev-hyperty/tree/betatester/docs)
+* [Available Hyperties](https://github.com/reTHINK-project/dev-hyperty/tree/develop/docs)
 
-* [GroupChatManager Hyperty](https://github.com/reTHINK-project/dev-hyperty/tree/betatester/docs/group-chat-manager)
+* [GroupChatManager Hyperty](https://github.com/reTHINK-project/dev-hyperty/tree/develop/docs/group-chat-manager)
 
-* [GroupChatManager Hyperty Demo](https://github.com/reTHINK-project/dev-hyperty/blob/betatester/examples/group-chat-manager/demo.js)
+* [GroupChatManager Hyperty Demo](https://github.com/reTHINK-project/dev-hyperty/blob/develop/examples/group-chat-manager/demo.js)
 
-* [Connector Hyperty](https://github.com/reTHINK-project/dev-hyperty/tree/betatester/docs/connector)
+* [Connector Hyperty](https://github.com/reTHINK-project/dev-hyperty/tree/develop/docs/connector)
 
-* [Connector Hyperty Demo](https://github.com/reTHINK-project/dev-hyperty/blob/betatester/examples/connector/demo.js)
+* [Connector Hyperty Demo](https://github.com/reTHINK-project/dev-hyperty/blob/develop/examples/connector/demo.js)
 
 * [APP Example](https://github.com/reTHINK-project/dev-app/tree/develop)
 
