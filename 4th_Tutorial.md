@@ -17,7 +17,7 @@ Each team should develop a video conference application. This application should
  * It should be possible to make A/V calls at the same time that a chat room is available (exchanging messages)
 
 
-![4th Challenge](./Figures/4-Challenge.jpg)
+![4th Challenge](./Figures/4-Tutorial.jpg)
 
 
 To overcome this fourth tutorial, each team can choose hyperties already available to handle some of the requirements (`dev-hyperty` repository) or develop their own hyperties.
