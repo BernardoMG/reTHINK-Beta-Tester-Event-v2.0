@@ -75,9 +75,11 @@ runtime.requireHyperty(hypertyURI('hysmart.rethink.ptinovacao.pt', 'CodeGenerato
 `Generate a code` - The generated code depends on the name of each team, which should be passed as input.
 
 ```javascript
-CodeGeneratorReporter.generateCode(team_name).then((code) => {
-  ...
-});
+setTimeout(() => {
+        CodeGeneratorReporter.instance.generateCode(team_name).then((code) => {
+          ...
+        });
+}, 1000);
 ```
 
 #### Note: Don't forget to display the generated code on your developed application (HTML page).
