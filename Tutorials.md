@@ -7,7 +7,7 @@ by each team. The main goals with these tutorials is that at the end, each team 
  * How to load and use an Hyperty in a web application
  * How to combine multiple Hyperties
  * How to use and configure the reTHINK development enviroment (Hyperty Toolkit)
- * How to develop an Hyperty from scratch
+ * How to develop an Hyperty
 
 ## [1st Load an Hyperty](./1st_Challenge.md) (`estimate: 1 hour and 15 minutes`)
 
