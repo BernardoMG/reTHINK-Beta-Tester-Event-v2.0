@@ -27,15 +27,15 @@ After completing all the proposed challenges, each team must fill out page 7 (la
 
 * [Complete specification](https://github.com/reTHINK-project/specs)
 
-* [Available Hyperties](https://github.com/reTHINK-project/dev-hyperty/tree/betatester/docs)
+* [Available Hyperties](https://github.com/reTHINK-project/dev-hyperty/tree/develop/docs)
 
-* [GroupChatManager Hyperty](https://github.com/reTHINK-project/dev-hyperty/tree/betatester/docs/group-chat-manager)
+* [GroupChatManager Hyperty](https://github.com/reTHINK-project/dev-hyperty/tree/develop/docs/group-chat-manager)
 
-* [GroupChatManager Hyperty Demo](https://github.com/reTHINK-project/dev-hyperty/blob/betatester/examples/group-chat-manager/demo.js)
+* [GroupChatManager Hyperty Demo](https://github.com/reTHINK-project/dev-hyperty/blob/develop/examples/group-chat-manager/demo.js)
 
-* [Connector Hyperty](https://github.com/reTHINK-project/dev-hyperty/tree/betatester/docs/connector)
+* [Connector Hyperty](https://github.com/reTHINK-project/dev-hyperty/tree/develop/docs/connector)
 
-* [Connector Hyperty Demo](https://github.com/reTHINK-project/dev-hyperty/blob/betatester/examples/connector/demo.js)
+* [Connector Hyperty Demo](https://github.com/reTHINK-project/dev-hyperty/blob/develop/examples/connector/demo.js)
 
 * [APP Example](https://github.com/reTHINK-project/dev-app/tree/develop)
 
