@@ -20,8 +20,8 @@ Each team should develop a video conference application. This application should
 ![4th Challenge](./Figures/4-Challenge.jpg)
 
 
-To overcome this fourth challenge, each team can choose from hyperties already available to handle some of the requirements (`dev-hyperty` repository) or develop their own hyperties. We will valued teams who try to develop new hyperties or change the available hyperties, in terms of functionalities.
-Read carefully the documentation available at the root of this repository. It will be very useful in order to complete this challenge.
+To overcome this fourth tutorial, each team can choose hyperties already available to handle some of the requirements (`dev-hyperty` repository) or develop their own hyperties. We will valued teams who try to develop new hyperties or change the available hyperties, in terms of functionalities.
+Read carefully the documentation available at the root of this repository. It will be very useful in order to complete this tutorial.
 Your application must cover all the requirements presented above.
 
 Your feedback is extremely important for us in order to improve the reTHINK framework in the future. As such, after complete all the tasks, each team must fill out the page 5 of this [Survey](https://docs.google.com/forms/d/e/1FAIpQLSeFt56Ura0zkTqg_VX9od_jBZtE3-2mt_urTFvxsoRuQ3uJRw/viewform). 
@@ -30,4 +30,4 @@ Your feedback is extremely important for us in order to improve the reTHINK fram
 
 ##
 
-### [Survey Page 5!!!](https://docs.google.com/forms/d/e/1FAIpQLSeFt56Ura0zkTqg_VX9od_jBZtE3-2mt_urTFvxsoRuQ3uJRw/viewform) 
+### [Survey!!!](https://docs.google.com/forms/d/e/1FAIpQLSeFt56Ura0zkTqg_VX9od_jBZtE3-2mt_urTFvxsoRuQ3uJRw/viewform) 
