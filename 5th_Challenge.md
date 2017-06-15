@@ -1,4 +1,4 @@
-Challenge
+# Challenge
 
 Each team must develop a web application from scratch. The features of this new web application are up to each team. Each team is free to design the hyperty or hyperties, as well as the web application that uses it. We will value teams who try to develop innovative hyperties and applications, in terms of functionalities. Read carefully the documentation available at the root of this repository. It will be very useful in order to complete this challenge.
 
