@@ -32,7 +32,7 @@ To accomplish this first task, each team can continue working on the developed a
 `Creation of chat rooms` - Chat rooms must be identified by a certain name (`String`). When a chat room is created, the user can also provide a list of emails (`Array`) to invite to the chat room. Alternatively, if some user is in a different domain, this must be provided in order to receive the invitation (`Array`). 
 
 ```javascript
-GroupChatManager.create(name, emails, domains).then(function(chatController) => {
+GroupChatManager.create(name, emails, domains).then((chatController) => {
   ...
 });
 ```
@@ -43,7 +43,7 @@ GroupChatManager.create(name, emails, domains).then(function(chatController) => 
 `Join chat room` - As soon as the chat room is created, an URL is generated (`DataObject Reporter URL`), that other users should use if they want to join the chat room.
 
 ```javascript
-GroupChatManager.join(url).then(function(chatController) => {
+GroupChatManager.join(url).then((chatController) => {
   ...
 });
 ```
@@ -54,7 +54,7 @@ GroupChatManager.join(url).then(function(chatController) => {
 `Exchange of messages` - Inside the chat room, users can easily exchange messages between them.
 
 ```javascript
-chatController.send(message).then(function(result) => {
+chatController.send(message).then((result) => {
   ...
 });
 ```
