@@ -1,4 +1,4 @@
-# 1st Challenge
+# 1st Load an Hyperty
 
 Each team should develop a web application that uses the `Code Generator Reporter` hyperty that can be deployed from the `hysmart.rethink.ptinovacao.pt` catalogue. This hyperty generates a code according to the name of each team, which should be passed as input. The resulting code should be shown in the developed application.   
 
