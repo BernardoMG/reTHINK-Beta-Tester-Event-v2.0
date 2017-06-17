@@ -7,7 +7,7 @@ Each team should continue working on the previously developed application that u
 
 
 To overcome this third tutorial, each team should accomplish all the tasks bellow. 
-Your feedback is extremely important for us in order to improve reTHINK framework in the future. As such, after complete all the tasks, each team must fill out this [Survey](https://docs.google.com/forms/d/e/1FAIpQLSeFt56Ura0zkTqg_VX9od_jBZtE3-2mt_urTFvxsoRuQ3uJRw/viewform). 
+Your feedback is extremely important for us in order to improve reTHINK framework in the future. As such, after complete all the tasks, each team must fill out this [Survey](https://docs.google.com/forms/d/e/1FAIpQLSfrlXAJu6wWiazL0tFQNjXr3ig5uLd4s9N5D_3WMivxNdBCMA/viewform). 
 
 ### Note: If you do not fill out this form, your participation will not be considered! 
 
@@ -99,4 +99,4 @@ Open https://localhost/ and select an Hyperty to run.
 
 ##
 
-### [Survey!!!](https://docs.google.com/forms/d/e/1FAIpQLSeFt56Ura0zkTqg_VX9od_jBZtE3-2mt_urTFvxsoRuQ3uJRw/viewform) 
+### [Survey!!!](https://docs.google.com/forms/d/e/1FAIpQLSfrlXAJu6wWiazL0tFQNjXr3ig5uLd4s9N5D_3WMivxNdBCMA/viewform) 
