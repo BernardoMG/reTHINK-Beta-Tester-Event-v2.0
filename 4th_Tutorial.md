@@ -25,10 +25,10 @@ To overcome this fourth tutorial, each team can choose hyperties already availab
 Read carefully the documentation available at the root of this repository. It will be very useful in order to complete this tutorial.
 Your application must cover all the requirements presented above.
 
-Your feedback is extremely important for us in order to improve the reTHINK framework in the future. As such, after complete all the tasks, each team must fill out this [Survey](https://docs.google.com/forms/d/e/1FAIpQLSeFt56Ura0zkTqg_VX9od_jBZtE3-2mt_urTFvxsoRuQ3uJRw/viewform). 
+Your feedback is extremely important for us in order to improve the reTHINK framework in the future. As such, after complete all the tasks, each team must fill out this [Survey](https://docs.google.com/forms/d/e/1FAIpQLSfJMR7Ae5Dxif1rUPm1oUs4IimyhNWuJM4p1zLXraexYlShRw/viewform). 
 
 ### Note: If you do not fill out this form, your participation will not be considered! 
 
 ##
 
-### [Survey!!!](https://docs.google.com/forms/d/e/1FAIpQLSeFt56Ura0zkTqg_VX9od_jBZtE3-2mt_urTFvxsoRuQ3uJRw/viewform) 
+### [Survey!!!](https://docs.google.com/forms/d/e/1FAIpQLSfJMR7Ae5Dxif1rUPm1oUs4IimyhNWuJM4p1zLXraexYlShRw/viewform) 
