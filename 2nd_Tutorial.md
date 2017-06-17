@@ -15,7 +15,7 @@ With this application, users can create chat rooms to exchange messages with eac
 ![2nd Challenge](./Figures/2-Tutorial.jpg)
 
 To overcome this second tutorial, each team should accomplish all the tasks bellow. 
-Your feedback is extremely important for us in order to improve reTHINK framework in the future. As such, after completing all the tasks, each team must fill out this [Survey](https://docs.google.com/forms/d/e/1FAIpQLSeFt56Ura0zkTqg_VX9od_jBZtE3-2mt_urTFvxsoRuQ3uJRw/viewform). 
+Your feedback is extremely important for us in order to improve reTHINK framework in the future. As such, after completing all the tasks, each team must fill out this [Survey](https://docs.google.com/forms/d/e/1FAIpQLSdSUG4lieayZa_SaV64shdn5VG8NgmfxlzcLWVTlQAzresccw/viewform). 
 
 ### Note: If you do not fill out this form, your participation will not be considered! 
 
@@ -65,5 +65,5 @@ chatController.send(message).then((result) => {
 
 ##
 
-### [Survey!!!](https://docs.google.com/forms/d/e/1FAIpQLSeFt56Ura0zkTqg_VX9od_jBZtE3-2mt_urTFvxsoRuQ3uJRw/viewform) 
+### [Survey!!!](https://docs.google.com/forms/d/e/1FAIpQLSdSUG4lieayZa_SaV64shdn5VG8NgmfxlzcLWVTlQAzresccw/viewform) 
 
