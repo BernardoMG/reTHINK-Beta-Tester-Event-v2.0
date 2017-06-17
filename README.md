@@ -8,9 +8,9 @@ This Repo is dedicated to help the challenge participants use the reTHINK framew
 
 ## [Challenge](./5th_Tutorial.md)
 
-## [Overall Survey](https://docs.google.com/forms/d/e/1FAIpQLSeFt56Ura0zkTqg_VX9od_jBZtE3-2mt_urTFvxsoRuQ3uJRw/viewform)
+## [Overall Survey](https://docs.google.com/forms/d/e/1FAIpQLScHq4aD7SOVrfHwWX92D_GW-VOhDlzfsIdjMvI4gYPPDXl6SQ/viewform)
 
-After completing all the proposed tutorials and challenge, each team must fill out this [Survey](https://docs.google.com/forms/d/e/1FAIpQLSeFt56Ura0zkTqg_VX9od_jBZtE3-2mt_urTFvxsoRuQ3uJRw/viewform).
+After completing all the proposed tutorials and challenge, each team must fill out this [Survey](https://docs.google.com/forms/d/e/1FAIpQLScHq4aD7SOVrfHwWX92D_GW-VOhDlzfsIdjMvI4gYPPDXl6SQ/viewform).
 
 ## [Rules](./rules.md)
 
