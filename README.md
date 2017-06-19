@@ -6,7 +6,7 @@ This Repo is dedicated to help the challenge participants use the reTHINK framew
 
 ## [Tutorials](./Tutorials.md) 
 
-## [Challenge](./5th_Tutorial.md)
+## [Challenge](./Challenge.md)
 
 ## [Overall Survey](https://docs.google.com/forms/d/e/1FAIpQLScHq4aD7SOVrfHwWX92D_GW-VOhDlzfsIdjMvI4gYPPDXl6SQ/viewform)
 
