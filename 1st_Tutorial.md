@@ -9,7 +9,7 @@ Your feedback is extremely important for us, in order to improve the reTHINK fra
 
 ### Note: If you do not fill out this Survey, your participation won't be considered! 
 
-## Task 1 (`estimate: 45 minutes`)
+## Task 1 (`estimate: 30 minutes`)
 
 ### Task 1.1:
 
@@ -70,7 +70,7 @@ runtime.requireHyperty(hypertyURI('hysmart.rethink.ptinovacao.pt', 'CodeGenerato
 });
 ```
 
-## Task 2 (`estimate: 30 minutes`)
+## Task 2 (`estimate: 20 minutes`)
 
 ### Task 2.1:
 
