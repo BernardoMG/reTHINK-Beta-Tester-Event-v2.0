@@ -5,7 +5,7 @@ let codeGeneratorReporter
 $(document).ready(function () {
 
   rethink.default.install({
-    domain: 'hysmart.rethink.ptinovacao.pt',
+    domain: 'localhost',
     development: true,
     runtimeURL: 'hyperty-catalogue://catalogue.hysmart.rethink.ptinovacao.pt/.well-known/runtime/Runtime'
   }).then((runtime) => {
@@ -15,7 +15,7 @@ $(document).ready(function () {
 
 
 function loadHyperty(runtime) {
-  runtime.requireHyperty(hypertyURI('hysmart.rethink.ptinovacao.pt', 'CodeGeneratorReporter'))
+  runtime.requireHyperty(hypertyURI('localhost', 'CodeGeneratorReporter'))
   .then((CodeGeneratorReporter) => {
     codeGeneratorReporter = CodeGeneratorReporter.instance
     $('#create').show()
@@ -40,11 +40,9 @@ function generateCodeService() {
   $('#alert').text('')
   $('#alert').children().remove()
   let teamName = $('#inlineFormInput').val()
-  setTimeout(() => {
-    codeGeneratorReporter.generateCode(teamName).then((code) => {
-      $('#alert').show()
-      $('#inlineFormInput').val('')
-      $('#alert').append('<strong>Well done!</strong> Code: ' + code)
-    });
-  }, 1000);
+  codeGeneratorReporter.generateCode(teamName).then((code) => {
+    $('#alert').show()
+    $('#inlineFormInput').val('')
+    $('#alert').append('<strong>Well done!</strong> Code: ' + code)
+  });
 }
