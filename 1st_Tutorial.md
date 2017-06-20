@@ -94,6 +94,12 @@ codeGeneratorReporter.generateCode(team_name).then((code) => {
 
 #### Note: Don't forget to display the generated code on your developed application (HTML page).
 
+## How to test
+
+Open two chrome windows, one normal and another anonymous. The anonymous window should run the `CodeGeneratorObserver` hyperty. How to do this? Simply go to https://hysmart.rethink.ptinovacao.pt/ and select the hyperty. Remember that with this hyperty, you should associate a different Google account from that used for the `CodeGeneratorReporter` hyperty.
+
+[CodeGeneratorObserver example]()
+
 ##
 
 ### [Survey!!!](https://docs.google.com/forms/d/e/1FAIpQLSezq9Zx9ZJJXuYi5orCslXkMX6eW9wKH5Db0f2TtJKyk393yw/viewform) 
