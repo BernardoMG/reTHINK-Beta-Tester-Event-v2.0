@@ -66,20 +66,30 @@ const hypertyURI = (hyperty_domain, hyperty) =>
 
 runtime.requireHyperty(hypertyURI('hysmart.rethink.ptinovacao.pt', 'CodeGeneratorReporter'))
 .then((CodeGeneratorReporter) => {
-  ...
+  let codeGeneratorReporter = CodeGeneratorReporter.instance
 });
 ```
 
 ## Task 2 (`estimate: 30 minutes`)
 
+### Task 2.1:
+
+`Data Object criation` - To sucessfully create the data object is necessary to pass the email (`Array`) associated to the `CodeGeneratorObserver` hyperty. 
+
+```javascript
+codeGeneratorReporter.create(email).then((code) => {
+  ...
+});
+```
+
+### Task 2.2:
+
 `Generate a code` - The generated code depends on the name of each team, which should be passed as input.
 
 ```javascript
-setTimeout(() => {
-        CodeGeneratorReporter.instance.generateCode(team_name).then((code) => {
-          ...
-        });
-}, 1000);
+codeGeneratorReporter.generateCode(team_name).then((code) => {
+  ...
+});
 ```
 
 #### Note: Don't forget to display the generated code on your developed application (HTML page).
