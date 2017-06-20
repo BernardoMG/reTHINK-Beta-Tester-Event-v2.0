@@ -98,7 +98,7 @@ codeGeneratorReporter.generateCode(team_name).then((code) => {
 
 Open two chrome windows, one normal and another anonymous. The anonymous window should run the `CodeGeneratorObserver` hyperty. How to do this? Simply go to https://hysmart.rethink.ptinovacao.pt/ and select the `CodeGeneratorObserver` hyperty. Remember that with this hyperty, you should associate a different Google account from that used for the `CodeGeneratorReporter` hyperty.
 
-[CodeGeneratorObserver example]()
+[CodeGeneratorObserver example](https://github.com/BernardoMG/reTHINK-Beta-Tester-Event-v2.0/blob/master/Figures/CodeGeneratorObserver.png)
 
 ##
 
