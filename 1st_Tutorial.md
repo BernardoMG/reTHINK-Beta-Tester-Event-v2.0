@@ -100,6 +100,8 @@ Open two chrome windows, one normal and another anonymous. The anonymous window 
 
 [CodeGeneratorObserver example](https://github.com/BernardoMG/reTHINK-Beta-Tester-Event-v2.0/blob/master/Figures/CodeGeneratorObserver.png)
 
+#### Note: Run `CodeGeneratorObserver` hyperty first.
+
 ##
 
 ### [Survey!!!](https://docs.google.com/forms/d/e/1FAIpQLSezq9Zx9ZJJXuYi5orCslXkMX6eW9wKH5Db0f2TtJKyk393yw/viewform) 
