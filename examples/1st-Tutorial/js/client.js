@@ -1,3 +1,7 @@
+/**
+* @author Bernardo Graça [bernardo.marquesg@gmail.com]
+* @version 0.1.0
+*/
 
 const hypertyURI = (hyperty_domain, hyperty) => `hyperty-catalogue://catalogue.${hyperty_domain}/.well-known/hyperty/${hyperty}`;
 let codeGeneratorReporter
