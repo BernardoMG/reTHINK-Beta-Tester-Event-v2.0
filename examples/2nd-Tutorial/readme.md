@@ -8,6 +8,6 @@ In this directory run the following command to start the web server:
 
 Then, open an anonymous Chrome window, go to `https://hysmart.rethink.ptinovacao.pt/` and select the `CodeGeneratorObserver`.
 
-Finally, go to `http://localhost:8000/` (normal and anonymous Chrome windows) to start using the application with two user. 
+Finally, go to `http://localhost:8000/` (normal and anonymous Chrome windows) to start using the application with two users. 
 
 ##### Note: Do not forget to associate a different account for each hyperty.
