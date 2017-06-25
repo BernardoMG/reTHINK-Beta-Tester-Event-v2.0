@@ -5,7 +5,7 @@ let codeGeneratorReporter
 $(document).ready(function () {
 
   rethink.default.install({
-    domain: 'localhost',
+    domain: 'hysmart.rethink.ptinovacao.pt',
     development: true,
     runtimeURL: 'hyperty-catalogue://catalogue.hysmart.rethink.ptinovacao.pt/.well-known/runtime/Runtime'
   }).then((runtime) => {
@@ -15,7 +15,7 @@ $(document).ready(function () {
 
 
 function loadHyperty(runtime) {
-  runtime.requireHyperty(hypertyURI('localhost', 'CodeGeneratorReporter'))
+  runtime.requireHyperty(hypertyURI('hysmart.rethink.ptinovacao.pt', 'CodeGeneratorReporter'))
   .then((CodeGeneratorReporter) => {
     codeGeneratorReporter = CodeGeneratorReporter.instance
     $('#create').show()
