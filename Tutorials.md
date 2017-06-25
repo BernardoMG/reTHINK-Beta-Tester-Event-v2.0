@@ -11,7 +11,7 @@ by each team. The main goals with these tutorials is that at the end, each team 
 
 ## [1st Load an Hyperty](./1st_Tutorial.md) (`estimate: 50 minutes`)
 
-## [2nd Combining multiple Hyperties in a web application](./2nd_Tutorial.md) (`estimate: 3 hours`)
+## [2nd Combining multiple Hyperties in a web application](./2nd_Tutorial.md) (`estimate: 2 hours and 50 minutes`)
 
 ## [3rd Hyperty development](./3rd_Tutorial.md) (`estimate: 1 hour and 15 minutes`)
 
