@@ -63,6 +63,14 @@ chatController.send(message).then((result) => {
 
 `Generate a code and broadcast to all the participants` - The generated code depends on the name of each team that should be passed as input. When the code is received, it should be sent to all the participants of the chat room.
 
+## How to run
+
+Open two chrome windows, one normal and another anonymous. The anonymous window should run the `CodeGeneratorObserver` hyperty. How to do this? Simply go to https://hysmart.rethink.ptinovacao.pt/ and select the `CodeGeneratorObserver` hyperty. Remember that with this hyperty, you should associate a different Google account from that used for the `CodeGeneratorReporter` hyperty.
+
+[CodeGeneratorObserver example](https://github.com/BernardoMG/reTHINK-Beta-Tester-Event-v2.0/blob/master/Figures/CodeGeneratorObserver.png)
+
+#### Note: Run `CodeGeneratorObserver` hyperty first.
+
 ##
 
 ### [Survey!!!](https://docs.google.com/forms/d/e/1FAIpQLSdSUG4lieayZa_SaV64shdn5VG8NgmfxlzcLWVTlQAzresccw/viewform) 
