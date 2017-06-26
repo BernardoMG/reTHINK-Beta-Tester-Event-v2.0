@@ -12,7 +12,7 @@ Your feedback is extremely important for us in order to improve reTHINK framewor
 ### Note: If you do not fill out this form, your participation will not be considered! 
 
 
-## Task 1 (`estimate: 35 minutes`)
+## Task 1 (`estimate: 15 minutes`)
 
 `Hyperty Development Toolkit` - Currently, the toolkit can be used to develop hyperties to be executed in the Browser or in NodeJS. It is essential to use the toolkit in order to change the `Code Generator Reporter` hyperty and complete this challenge. In order to configurate properly the Toolkit follow the available documentation [here](https://github.com/reTHINK-project/dev-hyperty-toolkit/blob/develop/README.md).
 
@@ -77,7 +77,7 @@ Open https://catalogue.localhost/ and accept certificate
 Open https://localhost/ and select an Hyperty to run.
 -->
 
-## Task 2 (`estimation: 40 minutes`)
+## Task 2 (`estimation: 30 minutes`)
 
 ### Task 2.1:
 
