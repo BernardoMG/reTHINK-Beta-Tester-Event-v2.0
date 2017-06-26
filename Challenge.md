@@ -5,10 +5,10 @@ Each team must develop a web application that takes advantage of one or more hyp
 ![5th Challenge](./Figures/5-Tutorial.jpg)
 
 
-Your feedback is extremely important for us in order to improve the reTHINK framework in the future. As such, after complete all the tasks, each team must fill out this [Survey](https://docs.google.com/forms/d/e/1FAIpQLSeFt56Ura0zkTqg_VX9od_jBZtE3-2mt_urTFvxsoRuQ3uJRw/viewform). 
+Your feedback is extremely important for us in order to improve the reTHINK framework in the future. As such, after complete all the tasks, each team must fill out this [Survey](https://docs.google.com/forms/d/e/1FAIpQLScTQeolosHiaBMDT-uDx4eppZA_QLbiOET8U3j2vucHf-aSgg/viewform). 
 
 ### Note: If you do not fill out this form, your participation will not be considered! 
 
 ##
 
-### [Survey!!!](https://docs.google.com/forms/d/e/1FAIpQLSeFt56Ura0zkTqg_VX9od_jBZtE3-2mt_urTFvxsoRuQ3uJRw/viewform) 
+### [Survey!!!](https://docs.google.com/forms/d/e/1FAIpQLScTQeolosHiaBMDT-uDx4eppZA_QLbiOET8U3j2vucHf-aSgg/viewform) 
