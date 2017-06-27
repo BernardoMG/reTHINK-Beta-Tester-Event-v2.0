@@ -72,7 +72,7 @@ runtime.requireHyperty(hypertyURI('hysmart.rethink.ptinovacao.pt', 'CodeGenerato
 
 ### Task 2.1:
 
-`Data Object criation` - To sucessfully create the data object is necessary to pass the email (`Array`) associated to the `CodeGeneratorObserver` hyperty. 
+`Data Object creation` - To sucessfully create the data object is necessary to pass the email (`Array`) associated to the `CodeGeneratorObserver` hyperty. 
 
 ```javascript
 codeGeneratorReporter.create(email).then((code) => {
