@@ -14,6 +14,6 @@ The following rules will govern the competition:
 * The jury’s decision is final and not subject to appeal
 * The jury’s criteria for the assignment of the first and second place awards will take into consideration:
   * If the challenge were successfully completed by each team
-  * If the team answered the surveys (presentation, tutorials, challenge and overall)
   * Quality and innovation of the developed solution 
+  * If the team answered the surveys (presentation, tutorials, challenge and overall)
   * User Interface
