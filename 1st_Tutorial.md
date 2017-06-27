@@ -100,6 +100,5 @@ Open two chrome windows, one normal and another anonymous. The anonymous window 
 
 #### Note: Run `CodeGeneratorObserver` hyperty first.
 
-#
 
 ### [Survey!!!](https://docs.google.com/forms/d/e/1FAIpQLSezq9Zx9ZJJXuYi5orCslXkMX6eW9wKH5Db0f2TtJKyk393yw/viewform) 
