@@ -9,6 +9,6 @@ Your feedback is extremely important for us in order to improve the reTHINK fram
 
 ### Note: If you do not fill out this form, your participation will not be considered! 
 
-##
+#
 
 ### [Survey!!!](https://docs.google.com/forms/d/e/1FAIpQLScTQeolosHiaBMDT-uDx4eppZA_QLbiOET8U3j2vucHf-aSgg/viewform) 
