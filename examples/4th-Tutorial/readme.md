@@ -2,6 +2,8 @@
 
 Use the Hyperty-Toolkit to encode the content of the `dev-hyperty` folder.
 
-You can use the APP from the 1st example to test this hyperty.
+Run `npm install` to install all the dependencies.
 
-##### Note: Do not forget that now you want to load the hyperty from the Hyperty-Toolkit (localhost) and not from the testbed (hysmart.rethink.ptinovacao.pt). Change the require method in the `client.js` file.
+Start the server by running `node webServer.js`.
+
+Open two Chrome tabs, one normal and another anonymous. Now you can use the app with two different users. 
