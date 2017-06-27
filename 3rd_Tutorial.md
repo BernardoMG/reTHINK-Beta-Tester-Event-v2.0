@@ -94,6 +94,6 @@ Open https://localhost/ and select an Hyperty to run.
 
 #### Note: Don't forget that the hyperty domain changed. For this challenge, you want to obtain the hyperty locally from the toolkit, not from the `hysmart.rethink.ptinovacao.pt` catalogue.
 
-##
+#
 
 ### [Survey!!!](https://docs.google.com/forms/d/e/1FAIpQLSfrlXAJu6wWiazL0tFQNjXr3ig5uLd4s9N5D_3WMivxNdBCMA/viewform) 
