@@ -7,8 +7,6 @@ Each team should develop a web application that uses the `Code Generator Reporte
 To overcome this first tutorial, each team should accomplish all the tasks bellow. 
 Your feedback is extremely important for us, in order to improve the reTHINK framework in the future. As such, after completing all the tasks, each team must fill out this [Survey](https://docs.google.com/forms/d/e/1FAIpQLSezq9Zx9ZJJXuYi5orCslXkMX6eW9wKH5Db0f2TtJKyk393yw/viewform). 
 
-### Note: If you do not fill out this Survey, your participation won't be considered! 
-
 ## Task 1 (`estimate: 30 minutes`)
 
 ### Task 1.1:
@@ -74,7 +72,7 @@ runtime.requireHyperty(hypertyURI('hysmart.rethink.ptinovacao.pt', 'CodeGenerato
 
 ### Task 2.1:
 
-`Data Object criation` - To sucessfully create the data object is necessary to pass the email (`Array`) associated to the `CodeGeneratorObserver` hyperty. 
+`Data Object creation` - To sucessfully create the data object is necessary to pass the email (`Array`) associated to the `CodeGeneratorObserver` hyperty. 
 
 ```javascript
 codeGeneratorReporter.create(email).then((code) => {

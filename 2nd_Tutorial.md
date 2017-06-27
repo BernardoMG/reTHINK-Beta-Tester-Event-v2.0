@@ -17,8 +17,6 @@ With this application, users can create chat rooms to exchange messages with eac
 To overcome this second tutorial, each team should accomplish all the tasks bellow. 
 Your feedback is extremely important for us in order to improve reTHINK framework in the future. As such, after completing all the tasks, each team must fill out this [Survey](https://docs.google.com/forms/d/e/1FAIpQLSdSUG4lieayZa_SaV64shdn5VG8NgmfxlzcLWVTlQAzresccw/viewform). 
 
-### Note: If you do not fill out this form, your participation will not be considered! 
-
 
 ## Task 1 (`estimate: 10 minutes`)
 
