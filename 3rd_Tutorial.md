@@ -9,13 +9,12 @@ Each team should continue working on the previously developed application that u
 To overcome this third tutorial, each team should accomplish all the tasks bellow. 
 Your feedback is extremely important for us in order to improve reTHINK framework in the future. As such, after complete all the tasks, each team must fill out this [Survey](https://docs.google.com/forms/d/e/1FAIpQLSfrlXAJu6wWiazL0tFQNjXr3ig5uLd4s9N5D_3WMivxNdBCMA/viewform). 
 
-### Note: If you do not fill out this form, your participation will not be considered! 
-
 
 ## Task 1 (`estimate: 15 minutes`)
 
 `Hyperty Development Toolkit` - Currently, the toolkit can be used to develop hyperties to be executed in the Browser or in NodeJS. It is essential to use the toolkit in order to change the `Code Generator Reporter` hyperty and complete this challenge. In order to configurate properly the Toolkit follow the available documentation [here](https://github.com/reTHINK-project/dev-hyperty-toolkit/blob/develop/README.md).
 
+#### Note: Use `develop` branch of dev-hyperty-toolkit and dev-hyperty repositories.
 <!-- 
 ### Task 1.1: 
 
