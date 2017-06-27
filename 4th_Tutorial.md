@@ -27,8 +27,6 @@ Your application must cover all the requirements presented above.
 
 Your feedback is extremely important for us in order to improve the reTHINK framework in the future. As such, after complete all the tasks, each team must fill out this [Survey](https://docs.google.com/forms/d/e/1FAIpQLSfJMR7Ae5Dxif1rUPm1oUs4IimyhNWuJM4p1zLXraexYlShRw/viewform). 
 
-### Note: If you do not fill out this form, your participation will not be considered! 
-
 ##
 
 ### [Survey!!!](https://docs.google.com/forms/d/e/1FAIpQLSfJMR7Ae5Dxif1rUPm1oUs4IimyhNWuJM4p1zLXraexYlShRw/viewform) 
