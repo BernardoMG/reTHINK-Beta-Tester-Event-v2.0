@@ -65,7 +65,7 @@ chatController.send(message).then((result) => {
 
 Open two chrome windows, one normal and another anonymous. Load the application in both windows, but using different accounts, i.e. email addresses.
 
-##
+
 
 ### [Survey!!!](https://docs.google.com/forms/d/e/1FAIpQLSdSUG4lieayZa_SaV64shdn5VG8NgmfxlzcLWVTlQAzresccw/viewform) 
 
