@@ -1,6 +1,6 @@
 # 2nd Combining multiple Hyperties in a web application 
 
-Each team should develop a chat application that uses the `Code Generator Reporter` and `Group Chat Manager` hyperties that can be deployed from the `hysmart.rethink.ptinovacao.pt` catalogue. The `Code Generator Reporter` hyperty generates a code according to the name of your team that should be passed an input. The `Group Chat Manager` hyperty's main functionality is to handle text conversations among groups, including:
+Each team should develop a chat application that uses the `Code Generator Reporter` and `Group Chat Manager` hyperties that can be deployed from the `hybroker.rethink.ptinovacao.pt` catalogue. The `Code Generator Reporter` hyperty generates a code according to the name of your team that should be passed an input. The `Group Chat Manager` hyperty's main functionality is to handle text conversations among groups, including:
 
  * Creation of a new Group Chat, with the possibility of inviting users to join it
  
@@ -20,7 +20,7 @@ Your feedback is extremely important for us in order to improve reTHINK framewor
 
 ## Task 1 (`estimate: 10 minutes`)
 
-To accomplish this first task, each team can continue working on the developed application of the first challenge. The only difference is that now the application must use `Code Generator Reporter` and `Group Chat Manager` hyperties. So, it is necessary to deploy the `Group Chat Manager` hyperty into the application. This second hyperty is also present in the `hysmart.rethink.ptinovacao.pt` catalogue.
+To accomplish this first task, each team can continue working on the developed application of the first challenge. The only difference is that now the application must use `Code Generator Reporter` and `Group Chat Manager` hyperties. So, it is necessary to deploy the `Group Chat Manager` hyperty into the application. This second hyperty is also present in the `hybroker.rethink.ptinovacao.pt` catalogue.
 
 
 ## Task 2 (`estimate: 2 hours and 30 minutes`)
@@ -63,11 +63,7 @@ chatController.send(message).then((result) => {
 
 ## How to run
 
-Open two chrome windows, one normal and another anonymous with two tabs. One tab from the anonymous window should run the `CodeGeneratorObserver` hyperty. How to do this? Simply go to https://hysmart.rethink.ptinovacao.pt/ and select the `CodeGeneratorObserver` hyperty. Remember that with this hyperty, you should associate a different Google account from that used for the `CodeGeneratorReporter` hyperty.
-
-[CodeGeneratorObserver example](https://github.com/BernardoMG/reTHINK-Beta-Tester-Event-v2.0/blob/master/Figures/CodeGeneratorObserver.png)
-
-#### Note: Run `CodeGeneratorObserver` hyperty first.
+Open two chrome windows, one normal and another anonymous with two tabs. Load the application in both tabs, but using different accounts, i.e. email addresses.
 
 ##
 
