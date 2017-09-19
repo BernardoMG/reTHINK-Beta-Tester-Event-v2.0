@@ -17,9 +17,9 @@ let isCreated = false
 */
 $(document).ready(function () {
   rethink.default.install({
-    domain: 'hysmart.rethink.ptinovacao.pt',
+    domain: 'hybroker.rethink.ptinovacao.pt',
     development: true,
-    runtimeURL: 'hyperty-catalogue://catalogue.hysmart.rethink.ptinovacao.pt/.well-known/runtime/Runtime'
+    runtimeURL: 'hyperty-catalogue://catalogue.hybroker.rethink.ptinovacao.pt/.well-known/runtime/Runtime'
   }).then((runtime) => {
     loadHyperty(runtime)
   });
@@ -29,9 +29,9 @@ $(document).ready(function () {
   Load Hyperties
 */
 function loadHyperty(runtime) {
-  runtime.requireHyperty(hypertyURI('hysmart.rethink.ptinovacao.pt', 'GroupChatManager')).then((GroupChatManager) => {
+  runtime.requireHyperty(hypertyURI('hybroker.rethink.ptinovacao.pt', 'GroupChatManager')).then((GroupChatManager) => {
     groupChatManager = GroupChatManager.instance
-    return runtime.requireHyperty(hypertyURI('hysmart.rethink.ptinovacao.pt', 'CodeGeneratorReporter')).then((CodeGeneratorReporter) => {
+    return runtime.requireHyperty(hypertyURI('hybroker.rethink.ptinovacao.pt', 'CodeGeneratorReporter')).then((CodeGeneratorReporter) => {
       codeGeneratorReporter = CodeGeneratorReporter.instance
       hypertiesDeployed(groupChatManager, codeGeneratorReporter)
     })
@@ -180,7 +180,7 @@ function createChatRoom (event) {
   createChatRoomButtonForm.off('click', createChatRoom)
   $('#myModal').find('#add-friend-form').off('click', addParticipantEvent)
 
-  groupChatManager.create(name, users, ['localhost']).then(function (chatController) {
+  groupChatManager.create(name, users, ['hybroker.rethink.ptinovacao.pt']).then(function (chatController) {
     isOwner = true
     $('#invite-chat').show()
     $('#close-chat').show()
@@ -216,7 +216,7 @@ function joinChatRoom (event) {
   $('#join-chat').hide()
   $('#leave-chat').show()
 
-  groupChatManager.join(resource).then(function (chatController) { 
+  groupChatManager.join(resource).then(function (chatController) {
     let participants = chatController._dataObjectObserver.data.participants
     $('#code-request').show()
     buildChat(resource, chatController._dataObjectObserver._name)
@@ -333,7 +333,7 @@ function prepareChat (chatController) {
       $('#emails').val('')
 
       // where the user is? Testing in my local machine but hyperties are in hysmart --> localhost or hysmart??
-      chatController.addUser(users, ['localhost']).then(function (result) {
+      chatController.addUser(users, ['hybroker.rethink.ptinovacao.pt']).then(function (result) {
         $('#myModal4').find('#emails-invitation').val('')
       }).catch(function (reason) {
         console.error('Error while inviting someone: ', reason)
@@ -377,10 +377,13 @@ function processParticipants (event) {
   let user
 
   if (event.hasOwnProperty('data') && event.data) {
-    user = event.data.identity
+    user = event.data.identity.userProfile
+  } else if (event.identity !== undefined){
+    user = event.identity.userProfile
   } else {
-    user = event
+      user = event
   }
+
   if (user.username !== $('.email').text().split('Email: ')[1]) {
     ativeUsers.append('<p class="participant">' + user.username + '</p>')
   }

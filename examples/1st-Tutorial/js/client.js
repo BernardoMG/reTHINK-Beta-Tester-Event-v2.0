@@ -9,9 +9,9 @@ let codeGeneratorReporter
 $(document).ready(function () {
 
   rethink.default.install({
-    domain: 'hysmart.rethink.ptinovacao.pt',
+    domain: 'hybroker.rethink.ptinovacao.pt',
     development: true,
-    runtimeURL: 'hyperty-catalogue://catalogue.hysmart.rethink.ptinovacao.pt/.well-known/runtime/Runtime'
+    runtimeURL: 'hyperty-catalogue://catalogue.hybroker.rethink.ptinovacao.pt/.well-known/runtime/Runtime'
   }).then((runtime) => {
     loadHyperty(runtime)
   });
@@ -19,7 +19,7 @@ $(document).ready(function () {
 
 
 function loadHyperty(runtime) {
-  runtime.requireHyperty(hypertyURI('hysmart.rethink.ptinovacao.pt', 'CodeGeneratorReporter'))
+  runtime.requireHyperty(hypertyURI('hybroker.rethink.ptinovacao.pt', 'CodeGeneratorReporter'))
   .then((CodeGeneratorReporter) => {
     codeGeneratorReporter = CodeGeneratorReporter.instance
     $('#create').show()
