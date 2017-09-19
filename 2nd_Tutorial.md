@@ -63,7 +63,7 @@ chatController.send(message).then((result) => {
 
 ## How to run
 
-Open two chrome windows, one normal and another anonymous with two tabs. Load the application in both tabs, but using different accounts, i.e. email addresses.
+Open two chrome windows, one normal and another anonymous. Load the application in both windows, but using different accounts, i.e. email addresses.
 
 ##
 
