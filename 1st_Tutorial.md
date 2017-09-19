@@ -1,6 +1,6 @@
 # 1st Load an Hyperty
 
-Each team should develop a web application that uses the `Code Generator Reporter` hyperty that can be deployed from the `hysmart.rethink.ptinovacao.pt` catalogue. This hyperty generates a code according to the name of each team, which should be passed as input. The resulting code should be shown in the developed application.   
+Each team should develop a web application that uses the `Code Generator Reporter` hyperty that can be deployed from the `hybroker.rethink.ptinovacao.pt` catalogue. This hyperty generates a code according to the name of each team, which should be passed as input. The resulting code should be shown in the developed application.   
 
 ![1st Challenge](./Figures/1-Tutorial.jpg)
 
@@ -32,7 +32,7 @@ $ git clone --branch=develop https://github.com/reTHINK-project/dev-runtime-brow
   <head>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    <script src="https://hysmart.rethink.ptinovacao.pt/.well-known/runtime/rethink.js"></script> 
+    <script src="https://hybroker.rethink.ptinovacao.pt/.well-known/runtime/rethink.js"></script> 
   </head>
   <body>
   </body>
@@ -45,9 +45,9 @@ $ git clone --branch=develop https://github.com/reTHINK-project/dev-runtime-brow
 
 ```javascript
 rethink.default.install({ 
-  domain: 'hysmart.rethink.ptinovacao.pt',
+  domain: 'hybroker.rethink.ptinovacao.pt',
   development: true,
-  runtimeURL: 'hyperty-catalogue://catalogue.hysmart.rethink.ptinovacao.pt/.well-known/runtime/Runtime'
+  runtimeURL: 'hyperty-catalogue://catalogue.hybroker.rethink.ptinovacao.pt/.well-known/runtime/Runtime'
   }).then((runtime) => {
     ... 
 });
@@ -56,13 +56,13 @@ rethink.default.install({
 
 ### Task 1.3:
 
-`Load an Hyperty` - An Hyperty can be loaded using `requireHyperty()` method. For this challenge, the `Code Generator Reporter` hyperty, which is ready to be used in `hysmart.rethink.ptinovacao.pt` catalogue, should be loaded. To deploy it in a successful manner, authentication is mandatory.
+`Load an Hyperty` - An Hyperty can be loaded using `requireHyperty()` method. For this challenge, the `Code Generator Reporter` hyperty, which is ready to be used in `hybroker.rethink.ptinovacao.pt` catalogue, should be loaded. To deploy it in a successful manner, authentication is mandatory.
 
 ```javascript
 const hypertyURI = (hyperty_domain, hyperty) => 
 `hyperty-catalogue://catalogue.${hyperty_domain}/.well-known/hyperty/${hyperty}`;
 
-runtime.requireHyperty(hypertyURI('hysmart.rethink.ptinovacao.pt', 'CodeGeneratorReporter'))
+runtime.requireHyperty(hypertyURI('hybroker.rethink.ptinovacao.pt', 'CodeGeneratorReporter'))
 .then((CodeGeneratorReporter) => {
   let codeGeneratorReporter = CodeGeneratorReporter.instance
 });
@@ -94,7 +94,7 @@ codeGeneratorReporter.generateCode(team_name).then((code) => {
 
 ## How to run
 
-Open two chrome windows, one normal and another anonymous. The anonymous window should run the `CodeGeneratorObserver` hyperty. How to do this? Simply go to https://hysmart.rethink.ptinovacao.pt/ and select the `CodeGeneratorObserver` hyperty. Remember that with this hyperty, you should associate a different Google account from that used for the `CodeGeneratorReporter` hyperty.
+Open two chrome windows, one normal and another anonymous. The anonymous window should run the `CodeGeneratorObserver` hyperty. How to do this? Simply go to https://hybroker.rethink.ptinovacao.pt/ and select the `CodeGeneratorObserver` hyperty. Remember that with this hyperty, you should associate a different Google account from that used for the `CodeGeneratorReporter` hyperty.
 
 [CodeGeneratorObserver example](https://github.com/BernardoMG/reTHINK-Beta-Tester-Event-v2.0/blob/master/Figures/CodeGeneratorObserver.png)
 
