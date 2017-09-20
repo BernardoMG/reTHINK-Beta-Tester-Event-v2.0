@@ -2,8 +2,8 @@ The following rules will govern the competition:
 
 # General rules
 * Only persons validated by the organization, previously enrolled, can participate
-* The challenge will be disclosed at 18pm on July 7th
-* The competition ends at 18pm on July 14th
+* The challenge will be disclosed at 19pm on October 3rd
+* The competition ends at 19pm on October 10th
 * Participants can run alone or in teams of two elements
 * Participants can not be in anyway affiliated with the ReThink project
 * A participation certificate will be awarded to every participant that makes an effective effort to participate
