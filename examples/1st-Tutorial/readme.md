@@ -6,7 +6,7 @@ In this directory run the following command to start the web server:
   python -m SimpleHTTPServer
 ```
 
-Then, open an anonymous Chrome window, go to `https://hysmart.rethink.ptinovacao.pt/` and select the `CodeGeneratorObserver`.
+Then, open an anonymous Chrome window, go to `https://hybroker.rethink.ptinovacao.pt/` and select the `CodeGeneratorObserver`.
 
 Finally, go to `http://localhost:8000/` to start using the application.
 
