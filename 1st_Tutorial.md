@@ -72,7 +72,7 @@ runtime.requireHyperty(hypertyURI('hybroker.rethink.ptinovacao.pt', 'CodeGenerat
 
 ### Task 2.1:
 
-`Data Object creation` - To sucessfully create the data object is necessary to pass the email (`Array`) associated to the `CodeGeneratorObserver` hyperty. 
+`Data Object creation` - To sucessfully create the data object is necessary to pass the email (`Array`) associated to the `CodeGeneratorObserver` hyperty. This email should be inserted by the user into the web application, i.e using a text box and a button to validate the operation.
 
 ```javascript
 codeGeneratorReporter.create(email).then((code) => {
@@ -82,7 +82,7 @@ codeGeneratorReporter.create(email).then((code) => {
 
 ### Task 2.2:
 
-`Generate a code` - The generated code depends on the name of each team, which should be passed as input.
+`Generate a code` - The generated code depends on the name of each team, which should be passed as input. This team name should be inserted by the user into the web application, i.e using a text box and a button to validate the operation.
 
 ```javascript
 codeGeneratorReporter.generateCode(team_name).then((code) => {
@@ -100,5 +100,6 @@ Open two chrome windows, one normal and another anonymous. The anonymous window 
 
 #### Note: Run `CodeGeneratorObserver` hyperty first.
 
+##
 
 ### [Survey!!!](https://docs.google.com/forms/d/e/1FAIpQLSezq9Zx9ZJJXuYi5orCslXkMX6eW9wKH5Db0f2TtJKyk393yw/viewform) 
