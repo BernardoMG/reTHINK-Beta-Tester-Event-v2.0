@@ -1,11 +1,11 @@
 # reTHINK-Beta-Tester-Event-v2.0
 
-This Repo is dedicated to help the challenge participants use the reTHINK framework for web application development. Each team must complete the proposed challenge. Do not forget to fill out the surveys (presentation, challenge and overall). If you do not, your participation will not be considered. Each team should take into account all rules, as these will be taken into account to determine the top places. In order to complete the proposed challenge, it is important that each team read the available documentation at the end of this repository and complete all the available tutorials. Please fill out the surveys presented at the end of each tutorial, it is very important for us in order to improve the reTHINK framework in the future. 
+This Repo is dedicated to help the challenge participants use the reTHINK framework for web application development. Each team must complete the proposed challenge. Do not forget to fill out the surveys (presentation, challenge and overall). If you do not, your participation will not be considered. Each team should take into account all rules, as these will be taken into account to determine the top places. In order to complete the proposed challenge, it is important that each team read the available documentation at the end of this repository and complete all the available tutorials. 
 
 
 ## [Presentation Survey](https://docs.google.com/forms/d/e/1FAIpQLSdw1j5PgpXWcHTNHzt6v7fRI_IEaWl5EZaWYgDSoDVozR8RzQ/viewform)
 
-## [Tutorials](./Tutorials.md) 
+## [Tutorials](./Tutorials.md) `(optional)`
 
 ## [Challenge](./Challenge.md)
 
@@ -18,22 +18,26 @@ After completing all the proposed tutorials and challenge, each team must fill o
 
 ## Usefull documentation
 
-* [reTHINK Wiki](https://github.com/reTHINK-project/startup/wiki)
+* [Quick Start](https://rethink-project.github.io/specs/tutorials/readme/)
 
-* [Complete specification](https://github.com/reTHINK-project/specs)
+* [Simple Hello World Demo](https://rethink-project.github.io/dev-app/)
 
-* [Available Hyperties](https://github.com/reTHINK-project/dev-hyperty/tree/develop/docs)
+* [Simple Hello World Source Code](https://github.com/reTHINK-project/dev-app/)
 
-* [GroupChatManager Hyperty](https://github.com/reTHINK-project/dev-hyperty/tree/develop/docs/group-chat-manager)
+* [Main Concepts](https://rethink-project.github.io/specs/concepts/foundations/)
 
-* [GroupChatManager Hyperty Demo](https://github.com/reTHINK-project/dev-hyperty/blob/develop/examples/group-chat-manager/demo.js)
+* [Complete Documentation](https://rethink-project.github.io/specs/)
 
-* [Connector Hyperty](https://github.com/reTHINK-project/dev-hyperty/tree/develop/docs/connector)
+* [Available Hyperties](https://rethink-project.github.io/dev-hyperty/)
 
-* [Connector Hyperty Demo](https://github.com/reTHINK-project/dev-hyperty/blob/develop/examples/connector/demo.js)
+* [GroupChatManager Hyperty](https://rethink-project.github.io/dev-hyperty/hyperties/Group-Chat-Manager-Hyperty/)
 
-* [APP Example](https://github.com/reTHINK-project/dev-app/tree/develop)
+* [Connector Hyperty](https://rethink-project.github.io/dev-hyperty/hyperties/Connector-Hyperty/)
 
-* [Hyperty Development](https://github.com/reTHINK-project/dev-hyperty-toolkit/wiki/First-Hyperty-Development)
+* [User Availability Observer](https://rethink-project.github.io/dev-hyperty/hyperties/User-Availability-Observer-Hyperty/)
+
+* [User Availability Reporter](https://rethink-project.github.io/dev-hyperty/hyperties/User-Availability-Reporter-Hyperty/)
+
+* [Hyperty Development](https://rethink-project.github.io/specs/tutorials/development-of-hyperties/)
 
 * [Webinars](https://www.youtube.com/channel/UC4xTKj2ZvhUyJosA_fLeAhg)
